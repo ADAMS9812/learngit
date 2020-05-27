@@ -1,0 +1,114 @@
+*   [33mcommit 4170962e814f7dfa73364059a989e2d985c8756c[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+[31m|[m[32m\[m  Merge: b0cccf9 57b51e4
+[31m|[m [32m|[m Author: ADAMS9812 <296376523@qq.com>
+[31m|[m [32m|[m Date:   Wed May 27 20:38:26 2020 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     alert error
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 57b51e4579eb981a0eb3ce86b7437a0e1adbfa9c[m[33m ([m[1;32msw_dev[m[33m)[m
+[31m|[m [32m|[m Author: ADAMS9812 <296376523@qq.com>
+[31m|[m [32m|[m Date:   Wed May 27 20:35:23 2020 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     sw_dev add
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit b0cccf9a1fbb6506f755a737a24112c79e33bc4e[m
+[32m|[m[32m/[m  Author: ADAMS9812 <296376523@qq.com>
+[32m|[m   Date:   Wed May 27 20:34:27 2020 +0800
+[32m|[m   
+[32m|[m       dev add
+[32m|[m 
+* [33mcommit 45cd27081d1aa663cd274cbdbeca8d158edc8482[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 20:28:02 2020 +0800
+[32m|[m 
+[32m|[m     添加了一句话
+[32m|[m 
+* [33mcommit e248ac5661c5f437e8ddd3bb698efead690d9cf8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: ADAMS9812 <58649537+ADAMS9812@users.noreply.github.com>
+[32m|[m Date:   Wed May 27 14:48:45 2020 +0800
+[32m|[m 
+[32m|[m     Update readme.txt
+[32m|[m 
+* [33mcommit da86d3bfcfa190328216001a3bd83861a52a1e0a[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 13:02:17 2020 +0800
+[32m|[m 
+[32m|[m     继续测试删除操作
+[32m|[m 
+* [33mcommit eb4791d69a06d1a1edc6d38e77481b306f2762b2[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 13:00:45 2020 +0800
+[32m|[m 
+[32m|[m     remove test.txt
+[32m|[m 
+* [33mcommit 1a5cb46dafafc4041f04ab14526d4d2773b9ef1d[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 12:59:17 2020 +0800
+[32m|[m 
+[32m|[m     测试test文件的删除
+[32m|[m 
+* [33mcommit 4dcc02cb1545b839df461e2a1ddbc31070da8b01[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 11:53:57 2020 +0800
+[32m|[m 
+[32m|[m     修改乱了数据2
+[32m|[m 
+* [33mcommit cd7e40231d0951687badccf41efdc048d0650706[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 11:50:06 2020 +0800
+[32m|[m 
+[32m|[m     修改乱了数据
+[32m|[m 
+* [33mcommit e3b443bb47696fc28096f13a0c29bd25f9dfb336[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Wed May 27 10:00:41 2020 +0800
+[32m|[m 
+[32m|[m     这次还是删除了file3.txt
+[32m|[m 
+* [33mcommit 1d5245518110080e64996c515c7e9093e58d949a[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 22:02:27 2020 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m 
+* [33mcommit 27fff79c055870b51a0c3865c3329198bcca90c8[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:55:19 2020 +0800
+[32m|[m 
+[32m|[m     OK了这次
+[32m|[m 
+* [33mcommit ef34df477f17be4b532232657732d78dc3efa33f[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:41:38 2020 +0800
+[32m|[m 
+[32m|[m     世文
+[32m|[m 
+* [33mcommit dd05f572d7f6c97d24e9e4e6b31775f7335cf614[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:34:22 2020 +0800
+[32m|[m 
+[32m|[m     直接提交三个文档
+[32m|[m 
+* [33mcommit eed7b3a9dd0433f2e64933689123bacf66ad596d[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:29:05 2020 +0800
+[32m|[m 
+[32m|[m     这次第二次修改了
+[32m|[m 
+* [33mcommit 9706f4209f734d820c54e090cc206285c2ea97cf[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:18:37 2020 +0800
+[32m|[m 
+[32m|[m     This time commit three files
+[32m|[m 
+* [33mcommit f32b6bf50619a2e0663fd464673b272528bed920[m
+[32m|[m Author: ADAMS9812 <296376523@qq.com>
+[32m|[m Date:   Tue May 26 21:12:52 2020 +0800
+[32m|[m 
+[32m|[m     这里是第二次提交的代码
+[32m|[m 
+* [33mcommit df5b0bfbbf40df205eb5fad82c4228b3abf80d37[m
+  Author: ADAMS9812 <296376523@qq.com>
+  Date:   Tue May 26 21:05:15 2020 +0800
+  
+      I am shiwen
